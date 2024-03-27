@@ -1,12 +1,12 @@
-# Bias_contrastive_learning
+# Contrastive Learning as Polarizer
 For [Contrastive Learning as a Polarizer: Mitigating Gender Bias by Fair and
 Biased Sentences] paper
 
-### 1. clone and download first_baseline.ipynb
+## 1. Clone and download first_baseline.ipynb
 using !git clone, clone our project and run in for_github_colab.ipynb (If you run in Colab) 
 
-### 2. Pretraining 
-Search where train.sh file is, change !chmod+x [경로], ![경로] based on your dir. 
+## 2. Pretraining 
+Search where train.sh file is, change !chmod+x based on your dir. 
 
 ```python
 !chmod +x /content/drive/MyDrive/For_github_test/CL_Polarizer/CL_traning/pretraining/train.sh
@@ -22,7 +22,7 @@ The Args are as follows:
 * '--margin': for best score, you can use 0.9 (1.0).
 * '--save_path_prefix': save dir path. Later you can use this path for benchmark inference, eval.
 
-### 3. benchmark text 
+## 3. Evaluation
 Search wehere 'CL_Polarizer' dir is. 
 ```python
 cd /content/drive/MyDrive/For_github_test/CL_Polarizer
