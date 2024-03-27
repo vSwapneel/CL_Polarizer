@@ -1,6 +1,13 @@
+
+
+
 # Contrastive Learning as Polarizer
 For [Contrastive Learning as a Polarizer: Mitigating Gender Bias by Fair and
 Biased Sentences] paper
+
+## Our Proposed Model 
+
+- [Polarizer-bert-base-uncased](https://huggingface.co/kyungmin011029/Polarizer-bert-base-uncased/tree/main) 
 
 ## 1. Clone and download first_baseline.ipynb
 using !git clone, clone our project and run in for_github_colab.ipynb (If you run in Colab) 
