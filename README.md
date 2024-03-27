@@ -7,7 +7,10 @@ Biased Sentences] paper
 
 ## Our Proposed Model 
 
-- [Polarizer-bert-base-uncased](https://huggingface.co/kyungmin011029/Polarizer-bert-base-uncased/tree/main) 
+- [Polarizer-bert-base-uncased](https://huggingface.co/kyungmin011029/Polarizer-bert-base-uncased/tree/main)
+- [Polarizer-bert-large-uncased](https://huggingface.co/kyungmin011029/Polarizer-bert-large-uncased/tree/main)
+- [Polarizer-roberta-base](https://huggingface.co/kyungmin011029/Polarizer-roberta-base/tree/main)
+- [Polarizer-roberta-large](https://huggingface.co/kyungmin011029/Polarizer-roberta-large/tree/main)
 
 ## 1. Clone and download first_baseline.ipynb
 using !git clone, clone our project and run in for_github_colab.ipynb (If you run in Colab) 
