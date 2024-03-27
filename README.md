@@ -1,8 +1,8 @@
 # Bias_contrastive_learning
 for debiasing via contrastive learning paper
 
-### 1. clone and download first_baseline.ipyynb
-using !git clone [주소.git], cloning our project and running in first_baseline.ipynb (run in Colab) 
+### 1. clone and download first_baseline.ipynb
+using !git clone [주소.git], cloning our project and running in first_baseline.ipynb (If you run in Colab) 
 
 ### 2. Pretraining 
 search where train.sh file is, change !chmod+x [경로], ![경로] based on your dir. 
