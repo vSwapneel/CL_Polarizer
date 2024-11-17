@@ -74,11 +74,24 @@ for domain in ["gender"] -> ["race"]
                 self.domain2example["intrasentence"][domain]
 ```
 
+## Training and Evaluation Configuration Table
 
+This table summarizes the valid configurations used for training and evaluation in the experiments.
 
+| **ID** | **Training**                               | **Evaluation**          |
+|--------|--------------------------------------------|-------------------------|
+| 1      | `bert-base-uncased`                        | `BertForMaskedLM`       |
+| 2      | `bert-large-uncased`                       | `BertForMaskedLM`       |
+| 7      | `roberta-base`                             | `RobertaForMaskedLM`    |
+| 8      | `roberta-large`                            | `RobertaForMaskedLM`    |
+| 9      | `kyungmin011029/Polarizer-bert-base-uncased` | `BertForMaskedLM`       |
+| 10     | `kyungmin011029/Polarizer-bert-large-uncased` | `BertForMaskedLM`       |
+| 15     | `kyungmin011029/Polarizer-base`            | `RobertaForMaskedLM`    |
+| 16     | `kyungmin011029/Polarizer-roberta-large`   | `RobertaForMaskedLM`    |
 
+---
 
-
+The IDs here correspond to the file names in results_# which means that result file is associated to the setup mentioned in the table
 
 
 

@@ -1,0 +1,30 @@
+{
+  "for_github_test_2": {
+    "intrasentence": {
+      "gender": {
+        "Count": 2313.0,
+        "LM Score": 86.53555021107495,
+        "SS Score": 63.23769099651159,
+        "ICAT Score": 63.624932732928485
+      },
+      "race": {
+        "Count": 8928.0,
+        "LM Score": 83.56579943271872,
+        "SS Score": 57.10407445188426,
+        "ICAT Score": 71.6926462166935
+      },
+      "religion": {
+        "Count": 741.0,
+        "LM Score": 84.27431913403981,
+        "SS Score": 59.94342611571632,
+        "ICAT Score": 67.51480981880735
+      },
+      "profession": {
+        "Count": 7194.0,
+        "LM Score": 84.75500972765673,
+        "SS Score": 59.407794018188014,
+        "ICAT Score": 68.8078562571104
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "for_github_test": {
+    "intrasentence": {
+      "gender": {
+        "Count": 2313.0,
+        "LM Score": 85.73970402503635,
+        "SS Score": 60.278684896276104,
+        "ICAT Score": 68.11387600956986
+      }
+    }
+  }
+}
